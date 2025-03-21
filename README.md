@@ -1,0 +1,2 @@
+# namaj
+namaj.co.sc
